@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class App {
+public class SnakeApp {
     public static void main(String[] args) throws Exception {
         int boardWidth = 500;
         int boardHeight = boardWidth;
